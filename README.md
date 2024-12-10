@@ -3,7 +3,9 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
-![queens_logo](https://github.com/user-attachments/assets/d52851ba-79b9-4168-8d8b-268a6d2f7f64)
+<p align="center">
+    <img width="80%" src="https://github.com/user-attachments/assets/d52851ba-79b9-4168-8d8b-268a6d2f7f64">
+</p>
 
 ## Puzzle Web Application Based on *Queens* by LinkedIn
 
@@ -33,7 +35,7 @@ Below is a `.gif` depiction of the colour region expansion process:
 
 
 <p align="center">
-    <img width="50%" src="https://github.com/user-attachments/assets/75b26b3e-b5ab-4b7a-b86e-414b361e3dbe">
+    <img width="40%" src="https://github.com/user-attachments/assets/75b26b3e-b5ab-4b7a-b86e-414b361e3dbe">
 </p>
 
 To plot the frames of the `.gif` yourself, run
