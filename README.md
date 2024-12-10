@@ -9,7 +9,7 @@
 
 ## Puzzle Web Application Based on *Queens* by LinkedIn
 
-**Play the game at <a href="https://olibridge01.github.io/QueensGame" target="_blank">https://olibridge01.github.io/QueensGame</a>**
+**Play the game at <a href="https://olibridge01.github.io/QueensGame" target="_blank">olibridge01.github.io/QueensGame</a>**
 
 This repository contains an implementation of the [LinkedIn *Queens*](https://www.linkedin.com/games/queens/) puzzle in a web application. The puzzle is a generalization of the $N$-Queens problem, where the goal is to place $N$ queens on an $N \times N$ chessboard such that no two queens attack each other. In this variation, the queens may also only occupy a single colour region each.
 
