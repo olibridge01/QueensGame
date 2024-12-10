@@ -277,7 +277,7 @@ function addQueenSymbol(cell) {
        
         // Add icon with crown.svg
         const icon = document.createElement('img');
-        icon.src = '/assets/crown.svg';
+        icon.src = 'assets/crown.svg';
 
         icon.style.userSelect = 'none'; 
         icon.style.MozUserSelect = 'none';
