@@ -4,7 +4,7 @@ import numpy as np
 from typing import List, Tuple
 import matplotlib.pyplot as plt
 
-from generate_board import generate_board
+from generate_levels import generate_board
 
 def plot_generation(history: List[np.ndarray]) -> None:
     """Plot the generation of a board."""
